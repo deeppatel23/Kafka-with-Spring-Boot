@@ -1,0 +1,4 @@
+com/example/kafka/producer/KafkaProducer.class
+com/example/kafka/KafkaApplication.class
+com/example/kafka/consumer/KafkaConsumer.class
+com/example/kafka/config/KafkaTopicConfig.class
